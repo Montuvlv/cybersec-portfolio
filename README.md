@@ -3,7 +3,9 @@
 Welcome to my cybersecurity portfolio! This repository serves as a centralized hub for my ongoing learning, practical labs, script development, and detailed writeups from platforms like [TryHackMe](https://tryhackme.com).
 
 ## 👨‍💻 About Me
-"I am an aspiring Security Analyst/Penetration Tester passionate about identifying vulnerabilities and securing systems."
+Cybersecurity learner — comfortable across Linux systems, network recon, and 
+privilege escalation fundamentals, with a growing focus on both offensive 
+(pentesting) and defensive (SOC/blue team) security.
 
 ---
 
