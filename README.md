@@ -8,9 +8,8 @@ Welcome to my cybersecurity portfolio! This repository serves as a centralized h
 ---
 
 ## 📈 TryHackMe Stats
-*(You can use the official TryHackMe badge here. Replace `your_username` with your actual THM username in the link below)*
 
-[![TryHackMe](https://tryhackme-badges.s3.amazonaws.com/your_username.png)](https://tryhackme.com/p/your_username) 
+[![TryHackMe](https://tryhackme-badges.s3.amazonaws.com/montuvalvi074.png)](https://tryhackme.com/p/montuvalvi074) 
 
 ---
 
@@ -49,4 +48,4 @@ Screenshots and links to completed learning paths and certifications (like the T
 
 ## 📫 Contact
 - **LinkedIn:** [Your LinkedIn Profile](https://linkedin.com/in/yourprofile)
-- **TryHackMe:** [Your THM Profile](https://tryhackme.com/p/your_username)
+- **TryHackMe:** [montuvalvi074](https://tryhackme.com/p/montuvalvi074)
