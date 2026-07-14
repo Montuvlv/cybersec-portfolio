@@ -27,15 +27,16 @@ privilege escalation fundamentals, with a growing focus on both offensive
 
 ### 📝 [Writeups](./writeups/)
 Detailed walkthroughs and methodologies for challenges and rooms I've completed. Focus is on the "why" and not just the "how".
-- [SOC Level 1 Path](./writeups/soc-level1/)
+- [Fundamentals](./writeups/fundamentals/)
+- [SOC Blue Team](./writeups/soc-blue-team/)
 - [Pentesting Path](./writeups/pentesting/)
-- [CTF Challenges](./writeups/ctf-challenges/)
+- [Metasploit Fundamentals](./writeups/metasploit-fundamentals/)
+- [Metasploit Scanning & Exploitation](./writeups/metasploit-scanning-exploitation/)
 
 ### 📜 [Notes & Cheat Sheets](./notes/)
 Quick-reference guides and condensed notes I've created while studying.
 - [Nmap Cheat Sheet](./notes/nmap-cheatsheet.md)
-- [Linux Privilege Escalation](./notes/privesc-linux.md)
-- [Active Directory Concepts](./notes/active-directory.md)
+- [Linux Privilege Escalation](./notes/linux-privesc-checklist.md)
 
 ### 💻 [Tools & Scripts](./tools-scripts/)
 Custom automation scripts and small tools I've written to assist in reconnaissance, parsing logs, or exploitation.
@@ -49,5 +50,5 @@ Screenshots and links to completed learning paths and certifications (like the T
 ---
 
 ## 📫 Contact
-- **LinkedIn:** [Your LinkedIn Profile](https://linkedin.com/in/yourprofile)
+- **LinkedIn:** [Add Your LinkedIn Profile Here](https://linkedin.com/in/YOUR_PROFILE_HERE)
 - **TryHackMe:** [montuvalvi074](https://tryhackme.com/p/montuvalvi074)
