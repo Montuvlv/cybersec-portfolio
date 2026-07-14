@@ -1,5 +1,10 @@
 # Metasploit Fundamentals: Framework, Components, and Msfconsole Basics
 
+**Category:** Pentesting / Exploitation
+**Rooms covered:** Metasploit Introduction
+**Difficulty:** Beginner
+**Skills demonstrated:** Framework architecture, msfconsole navigation, module selection
+
 Beginner-friendly notes on the Metasploit Framework — what it's made of, the core concepts behind exploitation, and the basic `msfconsole` commands used to work with modules.
 
 > These notes are for learning purposes only and must only be applied in authorized environments.
@@ -101,3 +106,7 @@ Ethical hacking must always be done in authorized environments — using these t
 ## Final Thoughts
 
 Metasploit can look complex at first, but once the basic structure is clear, it becomes easier to navigate. For beginners, the best approach is to focus on concepts first — what a vulnerability is, what an exploit does, what a payload is, and how modules are configured. This foundation is useful not only for offensive security, but also for Blue Team, SOC analysis, and defensive security work.
+
+## Flags
+Redacted per TryHackMe's terms of service. Completion verifiable via my
+[TryHackMe profile](https://tryhackme.com/p/montuvalvi074).
